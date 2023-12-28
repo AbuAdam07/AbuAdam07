@@ -2,6 +2,8 @@
 
 ### I'm a web developer since 2022. I have experience creating websites using Figma layouts (HTML, CSS, JavaScript). I also have experience in developing web3 technologies in the Solidity language (hardhat, ether.js)
 
+#### You can find me via the telegram link. open to proposals for cooperation <code>[Текст ссылки](адрес "Описание")
+</code>
 <!--
 **AbuAdam07/AbuAdam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
